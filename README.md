@@ -26,6 +26,3 @@ The material in this repository is open and can be modified and redistributed ac
 Text is licensed under [CC BY Creative Commons License](http://creativecommons.org/licenses/by/4.0/).
 
 Code is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/KAUSTHack_Bootcamp/blob/main/1_intro/BasicPytorch.ipynb)  |
