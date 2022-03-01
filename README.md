@@ -16,8 +16,8 @@ to setup your environment)
 
 | Session   | Exercise (Github) | Exercise (Colab) |
 |-----------|------------------|------------------|
-| 1: Introduction to Torch | [Link](1_intro/BasicPytorch.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/pylops_transform2021/blob/master/Intro.ipynb)  |
-| 2: Segmentation | [Link](2_intro/SaltSeg.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/pylops_transform2021/blob/master/Horizons.ipynb) |
+| 1: Introduction to Torch | [Link](1_intro/BasicPytorch.ipynb) | [![Open In Colab](https://colab.research.google.com/github/mrava87/KAUSTHack_Bootcamp/blob/main/1_intro/BasicPytorch.ipynb)  |
+| 2: Segmentation | [Link](2_intro/SaltSeg.ipynb) | [![Open In Colab](https://colab.research.google.com/github/mrava87/KAUSTHack_Bootcamp/blob/main/2_segmentation/SaltNet.ipynb) |
 
 ## License
 The material in this repository is open and can be modified and redistributed according to the chosen licences.
